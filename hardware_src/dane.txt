@@ -1,0 +1,648 @@
+2020-06-19 19:38:37	
+2020-06-19 19:38:37	$,winddir=-1,windspeedmph=0.0,windgustmph=0.0,windgustdir=0,windspdmph_avg2m=0.0,winddir_avg2m=0,windgustmph_10m=0.0,windgustdir_10m=0,rainin=0.00,dailyrainin=0.00,#
+2020-06-19 19:38:37	
+2020-06-19 19:38:38	$,winddir=-1,windspeedmph=0.0,windgustmph=0.0,windgustdir=0,windspdmph_avg2m=0.0,winddir_avg2m=0,windgustmph_10m=0.0,windgustdir_10m=0,rainin=0.00,dailyrainin=0.00,#
+2020-06-19 19:38:39	
+2020-06-19 19:38:39	$,winddir=-1,windspeedmph=0.0,windgustmph=0.0,windgustdir=0,windspdmph_avg2m=0.0,winddir_avg2m=0,windgustmph_10m=0.0,windgustdir_10m=0,rainin=0.00,dailyrainin=0.00,#
+2020-06-19 19:38:40	
+2020-06-19 19:38:40	$,winddir=-1,windspeedmph=0.0,windgustmph=0.0,windgustdir=0,windspdmph_avg2m=0.0,winddir_avg2m=0,windgustmph_10m=0.0,windgustdir_10m=0,rainin=0.00,dailyrainin=0.00,#
+2020-06-19 19:38:41	
+2020-06-19 19:38:41	$,winddir=-1,windspeedmph=0.0,windgustmph=0.0,windgustdir=0,windspdmph_avg2m=0.0,winddir_avg2m=0,windgustmph_10m=0.0,windgustdir_10m=0,rainin=0.00,dailyrainin=0.00,#
+2020-06-19 19:38:42	
+2020-06-19 19:38:42	$,winddir=-1,windspeedmph=0.0,windgustmph=0.0,windgustdir=0,windspdmph_avg2m=0.0,winddir_avg2m=0,windgustmph_10m=0.0,windgustdir_10m=0,rainin=0.01,dailyrainin=0.01,#
+2020-06-19 19:38:42	
+2020-06-19 19:38:43	$,winddir=-1,windspeedmph=0.0,windgustmph=0.0,windgustdir=0,windspdmph_avg2m=0.0,winddir_avg2m=0,windgustmph_10m=0.0,windgustdir_10m=0,rainin=0.01,dailyrainin=0.01,#
+2020-06-19 19:38:43	
+2020-06-19 19:38:44	$,winddir=45,windspeedmph=1.5,windgustmph=1.5,windgustdir=45,windspdmph_avg2m=0.0,winddir_avg2m=0,windgustmph_10m=1.5,windgustdir_10m=45,rainin=0.02,dailyrainin=0.02,#
+2020-06-19 19:38:44	
+2020-06-19 19:38:45	$,winddir=-1,windspeedmph=3.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.0,winddir_avg2m=0,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.07,dailyrainin=0.07,#
+2020-06-19 19:38:45	
+2020-06-19 19:38:46	$,winddir=-1,windspeedmph=3.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.0,winddir_avg2m=0,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.08,dailyrainin=0.08,#
+2020-06-19 19:38:47	
+2020-06-19 19:38:47	$,winddir=203,windspeedmph=1.5,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=359,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.09,dailyrainin=0.09,#
+2020-06-19 19:38:48	
+2020-06-19 19:38:48	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=359,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.09,dailyrainin=0.09,#
+2020-06-19 19:38:49	
+2020-06-19 19:38:49	$,winddir=-1,windspeedmph=1.5,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=359,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.10,dailyrainin=0.10,#
+2020-06-19 19:38:50	
+2020-06-19 19:38:50	$,winddir=-1,windspeedmph=1.5,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=359,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.11,dailyrainin=0.11,#
+2020-06-19 19:38:51	
+2020-06-19 19:38:51	$,winddir=45,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=359,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.11,dailyrainin=0.11,#
+2020-06-19 19:38:52	
+2020-06-19 19:38:52	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=359,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.11,dailyrainin=0.11,#
+2020-06-19 19:38:53	
+2020-06-19 19:38:53	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=359,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.11,dailyrainin=0.11,#
+2020-06-19 19:38:54	
+2020-06-19 19:38:54	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=359,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.11,dailyrainin=0.11,#
+2020-06-19 19:38:55	
+2020-06-19 19:38:55	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=359,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.11,dailyrainin=0.11,#
+2020-06-19 19:38:56	
+2020-06-19 19:38:56	$,winddir=45,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=0,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.11,dailyrainin=0.11,#
+2020-06-19 19:38:57	
+2020-06-19 19:38:57	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=0,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.11,dailyrainin=0.11,#
+2020-06-19 19:38:58	
+2020-06-19 19:38:58	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=0,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.11,dailyrainin=0.11,#
+2020-06-19 19:38:59	
+2020-06-19 19:38:59	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=0,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:00	
+2020-06-19 19:39:00	$,winddir=225,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=359,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:01	
+2020-06-19 19:39:01	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=359,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:02	
+2020-06-19 19:39:02	$,winddir=225,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=357,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:03	
+2020-06-19 19:39:03	$,winddir=315,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=357,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:04	
+2020-06-19 19:39:04	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=357,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:05	
+2020-06-19 19:39:05	$,winddir=225,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=356,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:06	
+2020-06-19 19:39:06	$,winddir=225,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=355,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:07	
+2020-06-19 19:39:07	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=355,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:08	
+2020-06-19 19:39:08	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=355,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:09	
+2020-06-19 19:39:09	$,winddir=180,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=353,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:09	
+2020-06-19 19:39:10	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=353,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:10	
+2020-06-19 19:39:11	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=353,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:12	
+2020-06-19 19:39:12	$,winddir=45,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=354,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:13	
+2020-06-19 19:39:13	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=354,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:14	
+2020-06-19 19:39:14	$,winddir=180,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=352,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:15	
+2020-06-19 19:39:15	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=352,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:16	
+2020-06-19 19:39:16	$,winddir=225,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=351,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:16	
+2020-06-19 19:39:17	$,winddir=180,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=349,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:18	
+2020-06-19 19:39:18	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=349,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:19	
+2020-06-19 19:39:19	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=349,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:20	
+2020-06-19 19:39:20	$,winddir=45,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=350,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:21	
+2020-06-19 19:39:21	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=350,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:22	
+2020-06-19 19:39:22	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=350,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:23	
+2020-06-19 19:39:23	$,winddir=180,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=348,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:24	
+2020-06-19 19:39:24	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=348,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:25	
+2020-06-19 19:39:25	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=348,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:26	
+2020-06-19 19:39:26	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=348,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:27	
+2020-06-19 19:39:27	$,winddir=180,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=347,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:28	
+2020-06-19 19:39:28	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=347,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:29	
+2020-06-19 19:39:29	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=347,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:30	
+2020-06-19 19:39:30	$,winddir=225,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=346,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:31	
+2020-06-19 19:39:31	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=346,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:32	
+2020-06-19 19:39:32	$,winddir=45,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=346,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:33	
+2020-06-19 19:39:33	$,winddir=45,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=346,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:34	
+2020-06-19 19:39:34	$,winddir=225,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=348,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:35	
+2020-06-19 19:39:35	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=348,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:35	
+2020-06-19 19:39:36	$,winddir=45,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=349,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:36	
+2020-06-19 19:39:37	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=349,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:37	
+2020-06-19 19:39:38	$,winddir=45,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=349,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:38	
+2020-06-19 19:39:39	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=349,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:39	
+2020-06-19 19:39:40	$,winddir=180,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=348,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:40	
+2020-06-19 19:39:41	$,winddir=45,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=150,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:42	
+2020-06-19 19:39:42	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=150,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:43	
+2020-06-19 19:39:43	$,winddir=180,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=340,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:44	
+2020-06-19 19:39:44	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=340,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:44	
+2020-06-19 19:39:45	$,winddir=225,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:46	
+2020-06-19 19:39:46	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:47	
+2020-06-19 19:39:47	$,winddir=-1,windspeedmph=1.5,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:48	
+2020-06-19 19:39:48	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:49	
+2020-06-19 19:39:49	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:50	
+2020-06-19 19:39:50	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:50	
+2020-06-19 19:39:51	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:52	
+2020-06-19 19:39:52	$,winddir=315,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:53	
+2020-06-19 19:39:53	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:54	
+2020-06-19 19:39:54	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:55	
+2020-06-19 19:39:55	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:56	
+2020-06-19 19:39:56	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:57	
+2020-06-19 19:39:57	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:58	
+2020-06-19 19:39:58	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:39:59	
+2020-06-19 19:39:59	$,winddir=45,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:00	
+2020-06-19 19:40:00	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:01	
+2020-06-19 19:40:01	$,winddir=45,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=340,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:02	
+2020-06-19 19:40:02	$,winddir=45,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=340,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:03	
+2020-06-19 19:40:03	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=340,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:04	
+2020-06-19 19:40:04	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=340,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:05	
+2020-06-19 19:40:05	$,winddir=225,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:06	
+2020-06-19 19:40:06	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:07	
+2020-06-19 19:40:07	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:08	
+2020-06-19 19:40:08	$,winddir=45,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:08	
+2020-06-19 19:40:09	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:09	
+2020-06-19 19:40:10	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:10	
+2020-06-19 19:40:11	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:11	
+2020-06-19 19:40:12	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:12	
+2020-06-19 19:40:13	$,winddir=270,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:14	
+2020-06-19 19:40:14	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:15	
+2020-06-19 19:40:15	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:16	
+2020-06-19 19:40:16	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:17	
+2020-06-19 19:40:17	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:18	
+2020-06-19 19:40:18	$,winddir=225,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=338,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:18	
+2020-06-19 19:40:19	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=338,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:19	
+2020-06-19 19:40:20	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=338,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:21	
+2020-06-19 19:40:21	$,winddir=45,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=338,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:22	
+2020-06-19 19:40:22	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=338,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:23	
+2020-06-19 19:40:23	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=338,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:24	
+2020-06-19 19:40:24	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=338,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:25	
+2020-06-19 19:40:25	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=338,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:26	
+2020-06-19 19:40:26	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=338,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:27	
+2020-06-19 19:40:27	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=338,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:28	
+2020-06-19 19:40:28	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=338,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.12,dailyrainin=0.12,#
+2020-06-19 19:40:29	
+2020-06-19 19:40:29	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=338,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.13,dailyrainin=0.13,#
+2020-06-19 19:40:30	
+2020-06-19 19:40:30	$,winddir=315,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=338,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.13,dailyrainin=0.13,#
+2020-06-19 19:40:31	
+2020-06-19 19:40:31	$,winddir=45,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=338,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.13,dailyrainin=0.13,#
+2020-06-19 19:40:32	
+2020-06-19 19:40:32	$,winddir=-1,windspeedmph=1.5,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=338,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.14,dailyrainin=0.14,#
+2020-06-19 19:40:33	
+2020-06-19 19:40:33	$,winddir=45,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.14,dailyrainin=0.14,#
+2020-06-19 19:40:33	
+2020-06-19 19:40:34	$,winddir=45,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.14,dailyrainin=0.14,#
+2020-06-19 19:40:34	
+2020-06-19 19:40:35	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.14,dailyrainin=0.14,#
+2020-06-19 19:40:35	
+2020-06-19 19:40:36	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.14,dailyrainin=0.14,#
+2020-06-19 19:40:36	
+2020-06-19 19:40:37	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=339,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.14,dailyrainin=0.14,#
+2020-06-19 19:40:38	
+2020-06-19 19:40:38	$,winddir=180,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=337,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.14,dailyrainin=0.14,#
+2020-06-19 19:40:39	
+2020-06-19 19:40:39	$,winddir=225,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=336,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.14,dailyrainin=0.14,#
+2020-06-19 19:40:40	
+2020-06-19 19:40:40	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=336,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.14,dailyrainin=0.14,#
+2020-06-19 19:40:40	
+2020-06-19 19:40:41	$,winddir=225,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=335,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.14,dailyrainin=0.14,#
+2020-06-19 19:40:41	
+2020-06-19 19:40:42	$,winddir=180,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=334,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.14,dailyrainin=0.14,#
+2020-06-19 19:40:42	
+2020-06-19 19:40:43	$,winddir=225,windspeedmph=3.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=333,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.14,dailyrainin=0.14,#
+2020-06-19 19:40:43	
+2020-06-19 19:40:44	$,winddir=180,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=331,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.14,dailyrainin=0.14,#
+2020-06-19 19:40:44	
+2020-06-19 19:40:45	$,winddir=-1,windspeedmph=1.5,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=331,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.14,dailyrainin=0.14,#
+2020-06-19 19:40:46	
+2020-06-19 19:40:46	$,winddir=45,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=111,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.15,dailyrainin=0.15,#
+2020-06-19 19:40:47	
+2020-06-19 19:40:47	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=332,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.15,dailyrainin=0.15,#
+2020-06-19 19:40:48	
+2020-06-19 19:40:48	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=332,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.15,dailyrainin=0.15,#
+2020-06-19 19:40:48	
+2020-06-19 19:40:49	$,winddir=-1,windspeedmph=1.5,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=332,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.15,dailyrainin=0.15,#
+2020-06-19 19:40:49	
+2020-06-19 19:40:50	$,winddir=45,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=333,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.15,dailyrainin=0.15,#
+2020-06-19 19:40:50	
+2020-06-19 19:40:51	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=332,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.15,dailyrainin=0.15,#
+2020-06-19 19:40:51	
+2020-06-19 19:40:52	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=332,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.15,dailyrainin=0.15,#
+2020-06-19 19:40:52	
+2020-06-19 19:40:53	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=332,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.15,dailyrainin=0.15,#
+2020-06-19 19:40:54	
+2020-06-19 19:40:54	$,winddir=-1,windspeedmph=1.5,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=332,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.17,dailyrainin=0.17,#
+2020-06-19 19:40:55	
+2020-06-19 19:40:55	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=332,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.17,dailyrainin=0.17,#
+2020-06-19 19:40:56	
+2020-06-19 19:40:56	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=332,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.17,dailyrainin=0.17,#
+2020-06-19 19:40:57	
+2020-06-19 19:40:57	$,winddir=180,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=330,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.17,dailyrainin=0.17,#
+2020-06-19 19:40:57	
+2020-06-19 19:40:58	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=330,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.17,dailyrainin=0.17,#
+2020-06-19 19:40:59	
+2020-06-19 19:40:59	$,winddir=180,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=329,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.17,dailyrainin=0.17,#
+2020-06-19 19:41:00	
+2020-06-19 19:41:00	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=330,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.17,dailyrainin=0.17,#
+2020-06-19 19:41:01	
+2020-06-19 19:41:01	$,winddir=-1,windspeedmph=1.5,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=330,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.18,dailyrainin=0.18,#
+2020-06-19 19:41:02	
+2020-06-19 19:41:02	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=330,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.18,dailyrainin=0.18,#
+2020-06-19 19:41:03	
+2020-06-19 19:41:03	$,winddir=225,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=330,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.18,dailyrainin=0.18,#
+2020-06-19 19:41:03	
+2020-06-19 19:41:04	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=330,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.18,dailyrainin=0.18,#
+2020-06-19 19:41:04	
+2020-06-19 19:41:05	$,winddir=225,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=330,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.18,dailyrainin=0.18,#
+2020-06-19 19:41:05	
+2020-06-19 19:41:06	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=331,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.18,dailyrainin=0.18,#
+2020-06-19 19:41:06	
+2020-06-19 19:41:07	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=331,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.18,dailyrainin=0.18,#
+2020-06-19 19:41:07	
+2020-06-19 19:41:08	$,winddir=-1,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=331,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.18,dailyrainin=0.18,#
+2020-06-19 19:41:08	
+2020-06-19 19:41:09	$,winddir=225,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=331,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.18,dailyrainin=0.18,#
+2020-06-19 19:41:09	
+2020-06-19 19:41:10	$,winddir=225,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=330,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.18,dailyrainin=0.18,#
+2020-06-19 19:41:11	
+2020-06-19 19:41:11	$,winddir=225,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=329,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.18,dailyrainin=0.18,#
+2020-06-19 19:41:12	
+2020-06-19 19:41:12	$,winddir=248,windspeedmph=0.0,windgustmph=3.0,windgustdir=-1,windspdmph_avg2m=0.1,winddir_avg2m=327,windgustmph_10m=3.0,windgustdir_10m=-1,rainin=0.18,dailyrainin=0.18,#
+2020-06-19 19:41:13	
+2020-06-19 19:41:13	$,winddir=225,windspeedmph=19.3,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.2,winddir_avg2m=326,windgustmph_10m=19.3,windgustdir_10m=225,rainin=0.35,dailyrainin=0.35,#
+2020-06-19 19:41:13	
+2020-06-19 19:41:14	$,winddir=248,windspeedmph=16.4,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.4,winddir_avg2m=327,windgustmph_10m=19.3,windgustdir_10m=225,rainin=0.48,dailyrainin=0.50,#
+2020-06-19 19:41:15	
+2020-06-19 19:41:15	$,winddir=-1,windspeedmph=8.9,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.4,winddir_avg2m=327,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.04,dailyrainin=1.04,#
+2020-06-19 19:41:15	
+2020-06-19 19:41:16	$,winddir=-1,windspeedmph=14.9,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=328,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.55,dailyrainin=1.55,#
+2020-06-19 19:41:16	
+2020-06-19 19:41:17	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=330,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.61,dailyrainin=1.61,#
+2020-06-19 19:41:17	
+2020-06-19 19:41:18	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=330,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.61,dailyrainin=1.61,#
+2020-06-19 19:41:18	
+2020-06-19 19:41:19	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=330,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.62,dailyrainin=1.62,#
+2020-06-19 19:41:20	
+2020-06-19 19:41:20	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=329,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.62,dailyrainin=1.62,#
+2020-06-19 19:41:21	
+2020-06-19 19:41:21	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=329,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.62,dailyrainin=1.62,#
+2020-06-19 19:41:22	
+2020-06-19 19:41:22	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=329,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.62,dailyrainin=1.62,#
+2020-06-19 19:41:23	
+2020-06-19 19:41:23	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=331,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:23	
+2020-06-19 19:41:24	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=331,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:24	
+2020-06-19 19:41:25	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=331,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:26	
+2020-06-19 19:41:26	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=331,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:27	
+2020-06-19 19:41:27	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=332,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:28	
+2020-06-19 19:41:28	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=332,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:29	
+2020-06-19 19:41:29	$,winddir=45,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=344,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:30	
+2020-06-19 19:41:30	$,winddir=225,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=344,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:31	
+2020-06-19 19:41:31	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=344,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:32	
+2020-06-19 19:41:32	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=344,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:32	
+2020-06-19 19:41:33	$,winddir=45,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=344,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:33	
+2020-06-19 19:41:34	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=345,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:34	
+2020-06-19 19:41:35	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=345,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:35	
+2020-06-19 19:41:36	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=345,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:36	
+2020-06-19 19:41:37	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=345,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:38	
+2020-06-19 19:41:38	$,winddir=23,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=345,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:39	
+2020-06-19 19:41:39	$,winddir=203,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=354,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:39	
+2020-06-19 19:41:40	$,winddir=23,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=353,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:40	
+2020-06-19 19:41:41	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=352,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:41	
+2020-06-19 19:41:42	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=352,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:42	
+2020-06-19 19:41:43	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=354,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:44	
+2020-06-19 19:41:44	$,winddir=45,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=308,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:45	
+2020-06-19 19:41:45	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=355,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:45	
+2020-06-19 19:41:46	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=355,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:46	
+2020-06-19 19:41:47	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=355,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:47	
+2020-06-19 19:41:48	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=355,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:48	
+2020-06-19 19:41:49	$,winddir=225,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=354,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:49	
+2020-06-19 19:41:50	$,winddir=225,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=353,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:50	
+2020-06-19 19:41:51	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=353,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:52	
+2020-06-19 19:41:52	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=353,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:53	
+2020-06-19 19:41:53	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=353,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:54	
+2020-06-19 19:41:54	$,winddir=180,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=352,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:55	
+2020-06-19 19:41:55	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=352,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:56	
+2020-06-19 19:41:56	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=352,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:56	
+2020-06-19 19:41:57	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=352,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:57	
+2020-06-19 19:41:58	$,winddir=45,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=352,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:41:59	
+2020-06-19 19:41:59	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=352,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:00	
+2020-06-19 19:42:00	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=352,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:01	
+2020-06-19 19:42:01	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=352,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:02	
+2020-06-19 19:42:02	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=351,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:02	
+2020-06-19 19:42:03	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=351,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:03	
+2020-06-19 19:42:04	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=351,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:05	
+2020-06-19 19:42:05	$,winddir=45,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=353,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:05	
+2020-06-19 19:42:06	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=353,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:06	
+2020-06-19 19:42:07	$,winddir=180,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=336,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:07	
+2020-06-19 19:42:08	$,winddir=180,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=349,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:08	
+2020-06-19 19:42:09	$,winddir=45,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=338,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:09	
+2020-06-19 19:42:10	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=338,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:11	
+2020-06-19 19:42:11	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=338,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:12	
+2020-06-19 19:42:12	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=338,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:12	
+2020-06-19 19:42:13	$,winddir=45,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=323,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:13	
+2020-06-19 19:42:14	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=323,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:14	
+2020-06-19 19:42:15	$,winddir=-1,windspeedmph=1.5,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=323,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:15	
+2020-06-19 19:42:16	$,winddir=-1,windspeedmph=1.5,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=323,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:17	
+2020-06-19 19:42:17	$,winddir=-1,windspeedmph=3.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=323,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:18	
+2020-06-19 19:42:18	$,winddir=-1,windspeedmph=1.5,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=289,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:19	
+2020-06-19 19:42:19	$,winddir=-1,windspeedmph=1.5,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=289,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:20	
+2020-06-19 19:42:20	$,winddir=-1,windspeedmph=1.5,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=289,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:20	
+2020-06-19 19:42:21	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=288,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:21	
+2020-06-19 19:42:22	$,winddir=-1,windspeedmph=1.5,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=288,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:22	
+2020-06-19 19:42:23	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=288,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:24	
+2020-06-19 19:42:24	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=288,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:25	
+2020-06-19 19:42:25	$,winddir=225,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=302,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:26	
+2020-06-19 19:42:26	$,winddir=225,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=301,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:27	
+2020-06-19 19:42:27	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=301,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:27	
+2020-06-19 19:42:28	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=301,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:28	
+2020-06-19 19:42:29	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=301,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:30	
+2020-06-19 19:42:30	$,winddir=45,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=302,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:30	
+2020-06-19 19:42:31	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=301,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:31	
+2020-06-19 19:42:32	$,winddir=45,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=302,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:32	
+2020-06-19 19:42:33	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=301,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:33	
+2020-06-19 19:42:34	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=301,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:34	
+2020-06-19 19:42:35	$,winddir=225,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=300,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:35	
+2020-06-19 19:42:36	$,winddir=45,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=300,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:36	
+2020-06-19 19:42:37	$,winddir=180,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=97,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:37	
+2020-06-19 19:42:38	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=98,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:38	
+2020-06-19 19:42:39	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=100,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:39	
+2020-06-19 19:42:40	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=100,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:40	
+2020-06-19 19:42:41	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=101,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:41	
+2020-06-19 19:42:42	$,winddir=45,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=103,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:43	
+2020-06-19 19:42:43	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=104,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:43	
+2020-06-19 19:42:44	$,winddir=45,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=106,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:45	
+2020-06-19 19:42:45	$,winddir=203,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=107,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:46	
+2020-06-19 19:42:46	$,winddir=225,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=109,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:46	
+2020-06-19 19:42:47	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=109,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:47	
+2020-06-19 19:42:48	$,winddir=180,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=107,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:48	
+2020-06-19 19:42:49	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=107,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:49	
+2020-06-19 19:42:50	$,winddir=225,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=106,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:50	
+2020-06-19 19:42:51	$,winddir=180,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=104,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:51	
+2020-06-19 19:42:52	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=104,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:52	
+2020-06-19 19:42:53	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=104,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:53	
+2020-06-19 19:42:54	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=104,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:55	
+2020-06-19 19:42:55	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=104,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:56	
+2020-06-19 19:42:56	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=104,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:57	
+2020-06-19 19:42:57	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=106,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:58	
+2020-06-19 19:42:58	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=106,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:58	
+2020-06-19 19:42:59	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=107,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:42:59	
+2020-06-19 19:43:00	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.6,winddir_avg2m=107,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:00	
+2020-06-19 19:43:01	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=107,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:01	
+2020-06-19 19:43:02	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=108,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:02	
+2020-06-19 19:43:03	$,winddir=180,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=108,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:03	
+2020-06-19 19:43:04	$,winddir=45,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=105,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:04	
+2020-06-19 19:43:05	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=31,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:05	
+2020-06-19 19:43:06	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=31,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:06	
+2020-06-19 19:43:07	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=31,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:07	
+2020-06-19 19:43:08	$,winddir=225,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=30,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:08	
+2020-06-19 19:43:09	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=31,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:09	
+2020-06-19 19:43:10	$,winddir=225,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=31,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:10	
+2020-06-19 19:43:11	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=32,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:11	
+2020-06-19 19:43:12	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.5,winddir_avg2m=33,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:12	
+2020-06-19 19:43:13	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.4,winddir_avg2m=34,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:13	
+2020-06-19 19:43:14	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.3,winddir_avg2m=35,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:14	
+2020-06-19 19:43:15	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.2,winddir_avg2m=35,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:15	
+2020-06-19 19:43:16	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=35,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:16	
+2020-06-19 19:43:17	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=35,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:17	
+2020-06-19 19:43:18	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=35,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:18	
+2020-06-19 19:43:19	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=35,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:20	
+2020-06-19 19:43:20	$,winddir=315,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=35,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:21	
+2020-06-19 19:43:21	$,winddir=180,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=34,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:21	
+2020-06-19 19:43:22	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=34,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:23	
+2020-06-19 19:43:23	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=34,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:23	
+2020-06-19 19:43:24	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=34,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:24	
+2020-06-19 19:43:25	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=34,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:25	
+2020-06-19 19:43:26	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=34,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:27	
+2020-06-19 19:43:27	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=34,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:28	
+2020-06-19 19:43:28	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=34,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:29	
+2020-06-19 19:43:29	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=18,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:29	
+2020-06-19 19:43:30	$,winddir=180,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=18,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:30	
+2020-06-19 19:43:31	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=18,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:31	
+2020-06-19 19:43:32	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=18,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.63,dailyrainin=1.63,#
+2020-06-19 19:43:33	
+2020-06-19 19:43:33	$,winddir=-1,windspeedmph=1.5,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=17,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:33	
+2020-06-19 19:43:34	$,winddir=45,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=18,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:34	
+2020-06-19 19:43:35	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=18,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:35	
+2020-06-19 19:43:36	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=18,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:36	
+2020-06-19 19:43:37	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=18,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:37	
+2020-06-19 19:43:38	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=18,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:38	
+2020-06-19 19:43:39	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=17,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:39	
+2020-06-19 19:43:40	$,winddir=180,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=15,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:40	
+2020-06-19 19:43:41	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=15,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:41	
+2020-06-19 19:43:42	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=15,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:42	
+2020-06-19 19:43:43	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=15,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:43	
+2020-06-19 19:43:44	$,winddir=45,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=15,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:44	
+2020-06-19 19:43:45	$,winddir=180,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=134,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:45	
+2020-06-19 19:43:46	$,winddir=180,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=132,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:47	
+2020-06-19 19:43:47	$,winddir=225,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=131,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:47	
+2020-06-19 19:43:48	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=131,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:48	
+2020-06-19 19:43:49	$,winddir=225,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=131,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:49	
+2020-06-19 19:43:50	$,winddir=315,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=132,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:50	
+2020-06-19 19:43:51	$,winddir=-1,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=132,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:51	
+2020-06-19 19:43:52	$,winddir=248,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=131,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:52	
+2020-06-19 19:43:53	$,winddir=225,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=130,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:53	
+2020-06-19 19:43:54	$,winddir=225,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=130,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:54	
+2020-06-19 19:43:55	$,winddir=225,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=129,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:55	
+2020-06-19 19:43:56	$,winddir=225,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=128,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:57	
+2020-06-19 19:43:57	$,winddir=225,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=46,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:58	
+2020-06-19 19:43:58	$,winddir=225,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=125,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:58	
+2020-06-19 19:43:59	$,winddir=225,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=124,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
+2020-06-19 19:43:59	
+2020-06-19 19:44:00	$,winddir=225,windspeedmph=0.0,windgustmph=19.3,windgustdir=225,windspdmph_avg2m=0.1,winddir_avg2m=123,windgustmph_10m=19.3,windgustdir_10m=225,rainin=1.64,dailyrainin=1.64,#
