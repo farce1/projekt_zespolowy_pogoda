@@ -1,26 +1,23 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
-function App() {
-  return (
+class App extends React.Component {
+
+  state = {
+    weatherData: ''
+  }
+
+  getWeather = () => {
+    fetch("http://localhost:3001/weather")
+    .then(res => res.text())
+    .then(data => this.setState({weatherData: data}))
+  }
+
+  render = () => 
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+<button onClick={() => this.getWeather()}>WEATHER</button>
+<p>{this.state.weatherData}</p>
     </div>
-  );
 }
 
-export default App;
+export default App
