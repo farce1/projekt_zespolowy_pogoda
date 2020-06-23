@@ -6,6 +6,12 @@ class App extends React.Component {
     weatherData: "",
   };
 
+  componentDidMount() {
+    fetch("http://localhost:3001/weather")
+    .then((res) => res.text())
+    .then((data) => this.setState({ weatherData: data }));
+  }
+
   getFormattedData = (data) => {
     const weatherParameters = {};
     const entryDataFormat = data
@@ -36,14 +42,23 @@ class App extends React.Component {
 
   render() {
     const {weatherData} = this.state
+    const weather = weatherData ? this.getFormattedData(weatherData) : {}
     return (
-    <div className="App">
-      <button onClick={() => this.fetchWeatherData()}>WEATHER</button>
-      <p>
-        {weatherData
-          ? this.getFormattedData(weatherData).date
-          : ""}
-      </p>
+      <div className='app'>
+      <main>
+        <div>
+          <div className="location-box">
+            <div className="location">PROJEKT STACJA POGODOWA</div>
+            <div className="date">{weather.date}</div>
+          </div>
+          <div className="weather-box">
+            <div className="temp">
+              12°
+            </div>
+            <div className="weather">Sunny</div>
+          </div>
+        </div>
+      </main>
     </div>
   )}
 }
