@@ -1,4 +1,7 @@
 const express = require('express')
+const fs = require('fs')
+const readLastLines = require('read-last-lines');
+
 const app = express()
 const port = 3001
 
@@ -9,6 +12,8 @@ app.use(function(req, res, next) {
     next();
 });
 
-app.get('/weather', (req, res) => res.send('Hello World!'))
+app.get('/weather', (req, res) => {
+    readLastLines.read('../hardware_src/dane.txt', 1).then((lines) => res.send(lines))
+})
 
 app.listen(port, () => console.log(`Example app listening at http://localhost:${port}`))
