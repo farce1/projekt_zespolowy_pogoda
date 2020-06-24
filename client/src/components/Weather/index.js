@@ -44,6 +44,7 @@ export default class Weather extends React.Component {
             <TableCell>Wind Direction</TableCell>
             <TableCell>Wind Speed</TableCell>
             <TableCell>Wind Gust</TableCell>
+            <TableCell>Wind Gust Direction</TableCell>
             <TableCell>Wind Speed Average 2m</TableCell>
             <TableCell>Wind Direction Average 2m</TableCell>
             <TableCell>Wind Gust Average 10m</TableCell>

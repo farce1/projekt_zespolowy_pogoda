@@ -42,7 +42,7 @@ class App extends React.Component {
     return {
       date,
       time,
-      weatherParameters
+      ...weatherParameters
     };
   };
 
