@@ -57,14 +57,14 @@ class App extends React.Component {
     const { weatherData } = this.state;
     const weather = weatherData ? this.getFormattedData(weatherData) : {};
     return (
-      <div className="app warm">
+      <div className="app">
         <main>
           <div>
             <div className="location-box">
               <div className="location">PROJEKT STACJA POGODOWA</div>
             </div>
               <Weather rowData={weather}/>
-              <LineChart />
+              <LineChart data={weather}/>
             </div>
         </main>
       </div>

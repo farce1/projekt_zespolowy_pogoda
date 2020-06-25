@@ -1,41 +1,38 @@
 import React from 'react'
-import useChartConfig from 'hooks/useChartConfig'
-import Box from 'components/Box'
-import SyntaxHighlighter from 'components/SyntaxHighlighter'
+import useChartConfig from '../../../hooks/useChartConfig'
+import Box from '../../Box'
 import { Chart } from 'react-charts'
+import './linechart.css'
 
-let sourceCode
+export default class Line extends React.Component {
 
-export default function Line () {
-  const { data, randomizeData } = useChartConfig({
-    series: 10
-  })
+    state = {
+        chartData: [{
+            label: 'Series 1',
+            data: [
+              { x: 1, y: 10 },
+              { x: 2, y: 10 },
+              { x: 3, y: 10 }
+            ],
+          }],
+        series: {
+            showPoints: true
+        },
+        axes: [
+            { primary: true, type: 'time', position: 'bottom' },
+            { type: 'linear', position: 'left' }
+          ]
+    }
+    
 
-  const series = React.useMemo(
-    () => ({
-      showPoints: false
-    }),
-    []
-  )
-
-  const axes = React.useMemo(
-    () => [
-      { primary: true, type: 'time', position: 'bottom' },
-      { type: 'linear', position: 'left' }
-    ],
-    []
-  )
-
+render(){
+    const {chartData, series, axes} = this.state
   return (
-    <>
-      <button onClick={randomizeData}>Randomize Data</button>
-      <br />
-      <br />
-      <Box>
-        <Chart data={data} series={series} axes={axes} tooltip />
+    <div>
+      <Box resizable>
+        <Chart data={chartData} series={series} axes={axes} tooltip />
       </Box>
-      <br />
-      <SyntaxHighlighter code={sourceCode} />
-    </>
+    </div>
   )
+}
 }

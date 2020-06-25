@@ -3,8 +3,8 @@ import { ResizableBox } from 'react-resizable'
 
 export default function Box ({
   children,
-  width = 500,
-  height = 300,
+  width = 600,
+  height = 400,
   resizable = true,
   style = {},
   className,
