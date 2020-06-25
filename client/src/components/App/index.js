@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
 import Weather from "../Weather";
+import LineChart from '../Charts/Line'
 
 class App extends React.Component {
   state = {
@@ -55,7 +56,6 @@ class App extends React.Component {
   render() {
     const { weatherData } = this.state;
     const weather = weatherData ? this.getFormattedData(weatherData) : {};
-    console.log(weather)
     return (
       <div className="app warm">
         <main>
@@ -64,6 +64,7 @@ class App extends React.Component {
               <div className="location">PROJEKT STACJA POGODOWA</div>
             </div>
               <Weather rowData={weather}/>
+              <LineChart />
             </div>
         </main>
       </div>
