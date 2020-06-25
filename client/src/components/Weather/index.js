@@ -18,7 +18,7 @@ export default class Weather extends React.Component {
     }
 
     componentDidUpdate(prevProps, prevState) {
-        if(prevProps.rowData.time !== this.props.rowData.time){
+        if(prevProps.rowData.time !== this.props.rowData.time && this.props.rowData.winddir){
             this.setState({rows: [...prevState.rows, this.props.rowData]})
         }
     }
