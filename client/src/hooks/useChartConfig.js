@@ -41,7 +41,7 @@ const options = {
 
 const optionKeys = Object.keys(options)
 
-export default function useChartConfig({
+export default function useChartConfig ({
   series,
   useR,
   show = [],
@@ -113,8 +113,7 @@ export default function useChartConfig({
                 typeof options[option][0] === 'boolean'
                   ? value === 'true'
                   : value
-            }))
-          }
+            }))}
         >
           {options[option].map(d => (
             <option value={d} key={d.toString()}>
@@ -133,13 +132,13 @@ export default function useChartConfig({
   }
 }
 
-function makeDataFrom(dataType, series, useR, datums) {
+function makeDataFrom (dataType, series, useR, datums) {
   return [
     ...new Array(series || Math.max(Math.round(Math.random() * 5), 1))
   ].map((d, i) => makeSeries(i, dataType, useR, datums))
 }
 
-function makeSeries(i, dataType, useR, datums) {
+function makeSeries (i, dataType, useR, datums) {
   const start = 0
   const startDate = new Date()
   startDate.setMinutes(0)

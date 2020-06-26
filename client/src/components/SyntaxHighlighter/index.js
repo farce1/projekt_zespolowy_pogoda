@@ -5,9 +5,9 @@ import theme from 'react-syntax-highlighter/dist/cjs/styles/prism/tomorrow'
 
 PrismLight.registerLanguage('javascript', jsx)
 
-export default function SyntaxHighlighter({ code }) {
+export default function SyntaxHighlighter ({ code }) {
   return (
-    <PrismLight language="javascript" style={theme}>
+    <PrismLight language='javascript' style={theme}>
       {code}
     </PrismLight>
   )

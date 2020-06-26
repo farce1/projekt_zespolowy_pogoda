@@ -7,7 +7,7 @@ export default function Box ({
   height = 400,
   resizable = true,
   style = {},
-  className,
+  className
 }) {
   return (
     <div>
@@ -17,7 +17,7 @@ export default function Box ({
             style={{
               ...style,
               width: '100%',
-              height: '100%',
+              height: '100%'
             }}
             className={className}
           >
@@ -29,7 +29,7 @@ export default function Box ({
           style={{
             width: `${width}px`,
             height: `${height}px`,
-            ...style,
+            ...style
           }}
           className={className}
         >
