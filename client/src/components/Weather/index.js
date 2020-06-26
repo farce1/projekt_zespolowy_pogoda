@@ -7,10 +7,11 @@ import TableHead from '@material-ui/core/TableHead';
 import TableRow from '@material-ui/core/TableRow';
 import TablePagination from '@material-ui/core/TablePagination';
 import Paper from '@material-ui/core/Paper';
+import { uniqBy } from 'lodash'
 
 
 export default class Weather extends React.Component {
-    state ={
+    state = {
         rows: [],
         page: 0,
         rowsPerPage: 5
@@ -19,7 +20,8 @@ export default class Weather extends React.Component {
 
     componentDidUpdate(prevProps, prevState) {
         if(prevProps.rowData.time !== this.props.rowData.time && this.props.rowData.winddir){
-            this.setState({rows: [...prevState.rows, this.props.rowData]})
+            const uniqRowData = uniqBy([...prevState.rows, this.props.rowData], 'time')
+            this.setState({rows: uniqRowData})
         }
     }
 
@@ -34,7 +36,7 @@ export default class Weather extends React.Component {
     render(){
         const {rows, page, rowsPerPage} = this.state
   return (
-      <div>
+      <div className='weather-table'>
     <TableContainer component={Paper}>
       <Table stickyHeader size="small" aria-label="a dense table">
         <TableHead>
@@ -86,6 +88,6 @@ export default class Weather extends React.Component {
       />
           </div>
   )
-          }
+}
 }
 
