@@ -13,8 +13,8 @@ app.use(function(req, res, next) {
 });
 
 app.get('/weather', (req, res) => {
-    const timeFrame = Math.floor(Math.random() * 16) + 4
-    readLastLines.read('../hardware_src/dane.txt', timeFrame).then((lines) => res.send(lines))
+    const lineNumberToFetch = Math.floor(Math.random() * 16) + 20
+    readLastLines.read('../hardware_src/dane.txt', lineNumberToFetch).then((lines) => res.send(lines))
 })
 
 app.listen(port, () => console.log(`Example app listening at http://localhost:${port}`))
